@@ -1,0 +1,6 @@
+[submodule "xv6-lab"]
+	path = xv6-lab
+	url = git@github.com:007kevin/xv6-lab-fall2018.git
+[submodule "xv6-public"]
+	path = xv6-public
+	url = git://github.com/mit-pdos/xv6-public.git
